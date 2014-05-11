@@ -87,7 +87,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/about.html', 'About'),
         ('/blog', 'Blog'),
-        ('/wiki', 'Wiki'),
+        ('/wiki/', 'Wiki'),
         ('/code.html', 'Code'),
     ),
 }
