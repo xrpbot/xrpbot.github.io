@@ -6,6 +6,9 @@
 .. description: 
 .. type: text
 
+.. image:: xrp-gaitcycle.png
+    :align: center
+
 ------------
 Introduction
 ------------
