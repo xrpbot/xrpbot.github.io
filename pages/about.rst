@@ -12,7 +12,7 @@ About this project
 
 Humanoid robots fascinate us - they appear in nearly every science fiction universe. Compared to Mr. Data or C-3PO, humanoids in reality are rather disappointing. Not only do they lack anything resembling human-level intelligence, but even their walking is slow and fragile - most of them only work on perfectly even ground. While we still have to wait a long time for true artificial intelligence, the recent years have brought substantial progress with respect to motion.
 
-In 2005, Boston Dynamics (now owned by Google) presented the `Big Dog quadruped <https://www.youtube.com/watch?v=W1czBcnX1Ww>`_. Its motions now longer look like those of a robot, but rather like those of an animal. When faced with unexpected disturbances, such as being kicked, Big Dog does not shut down and fall over, but fights to maintain balance.
+In 2005, Boston Dynamics (now owned by Google) presented the `Big Dog quadruped <https://www.youtube.com/watch?v=W1czBcnX1Ww>`_. Its motions no longer look like those of a robot, but rather like those of an animal. When faced with unexpected disturbances, such as being kicked, Big Dog does not shut down and fall over, but fights to maintain balance.
 
 During the 2013 DARPA Grand Challenge, we saw bipedal robots with similar characteristics. The Japanese company Schaft (now also owned by Google) presented a robot which is, among other things, capable of `walking over grass <https://www.youtube.com/watch?v=diaZFIUBMBQ>`_ (see end of video).
 
