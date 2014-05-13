@@ -68,7 +68,7 @@ Since we still do not have three-phase power at the new location, a Huanyang Inv
 
         First milling tests
 
-We are currently waiting for the last spare parts, a complete set of way wipers, to arrive. As a first project, we will then produce all custom parts for the acrobot.
+We are currently waiting for the last spare parts, a complete set of way wipers, to arrive. As a first project, we will then produce all custom parts for the :doc:`acrobot`.
 
 
 
