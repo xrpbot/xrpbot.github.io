@@ -57,7 +57,7 @@ Finally, in spring 2014, everything was ready and we could unwarp our new presen
 
         Deckel FP2 milling machine
 
-Since we still do not have three-phase power at the new location, a Huanyang Inverter variable frequency drive was acquired to drive the motor. This allowed us to perform first tests with the machine. Up to now we are pretty confident that the machine will match all our initial requierments.
+Since we still do not have three-phase power at the new location, a Huanyang Inverter variable frequency drive was acquired to drive the motor. This allowed us to perform first tests with the machine. Up to now we are pretty confident that the machine will match all our initial requirements.
 
 .. container:: row
 
@@ -69,6 +69,4 @@ Since we still do not have three-phase power at the new location, a Huanyang Inv
         First milling tests
 
 We are currently waiting for the last spare parts, a complete set of way wipers, to arrive. As a first project, we will then produce all custom parts for the :doc:`acrobot`.
-
-
 
