@@ -1,7 +1,7 @@
 .. title: Announcing the eXperimental Robot Project
 .. slug: announcing-the-experimental-robot-project
 .. date: 2014/05/02 18:04:14
-.. tags: draft
+.. tags: 
 .. link: 
 .. description: 
 .. type: text
