@@ -1,12 +1,14 @@
 .. title: Acrobot
 .. slug: acrobot
 .. date: 2014/05/04 15:57:59
-.. tags: acrobot, draft
+.. tags: acrobot
 .. link: 
 .. description: 
 .. type: text
 
-[VIDEO GOES HERE]
+.. raw:: html
+
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/sLKPuyWwRVU' frameborder='0' allowfullscreen></iframe></div>
 
 In order to gain experience with a smaller, less ambitious project, we decided to build an Acrobot.
 
