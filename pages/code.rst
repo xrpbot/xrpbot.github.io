@@ -8,4 +8,4 @@
 
 Source code for the XRP project is hosted on GitHub: https://github.com/xrpbot.
 
-Historically, most of the code used to live at https://github.com/nfbraun/xrp. It will gradually be cleaned up and transferred to the xrpbot account.
+At this time, most of the code lives at https://github.com/nfbraun/xrp. It will gradually be `cleaned up </wiki/Cleanup>`_ and transferred to the xrpbot account.
