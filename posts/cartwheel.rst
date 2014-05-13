@@ -6,7 +6,9 @@
 .. description: 
 .. type: text
 
-[VIDEO GOES HERE]
+.. raw:: html
+
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/fUIPC3mdfQY' frameborder='0' allowfullscreen></iframe></div>
 
 The `Cartwheel 3D framework <https://code.google.com/p/cartwheel-3d/>`_ by S. Coros *et al.* is one of the few physics-based controllers for humanoid characters with freely available source code (Apache 2.0). This fact made it a good starting point for our own research into humanoid motion. However, the focus of the Cartwheel project is on being a tool for animation, rather than on controlling actual robots. 
 
