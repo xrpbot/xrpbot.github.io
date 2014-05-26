@@ -29,7 +29,7 @@ At this time, the project is in the planning phase. Substantial effort has gone 
 
 We are physically located at `Dingfabrik <http://www.dingfabrik.de/>`_, a hackerspace in Cologne, Germany. We have access to a reasonably complete electronics lab, a Lasersaur laser cutter, an FDM 3D printer, a Deckel FP2 conventional milling machine, and (soon) a lathe.
 
-We are always looking for contributors! If you have experience in a field relevant to the project and would like to contribute, please to not hesitate to contact us.
+We are always looking for contributors! If you have experience in a field relevant to the project and would like to contribute, please do not hesitate to contact us.
 
 -------
 Contact
