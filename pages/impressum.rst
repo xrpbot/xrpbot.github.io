@@ -15,6 +15,7 @@ Impressum/Kontakt
 | Norbert Braun
 | Deutz-Mülheimer Str. 197a
 | 51063 Köln
+| Germany
 | 
 | Telefon: +49 163 2718282
 | E-Mail: contact@xrpbot.org
