@@ -16,7 +16,7 @@ After the mechanical construction of the Acrobot was finished, we had to develop
 
 Initially, we used a "standard" BLDC control algorithm with the commutation timing determined by the motor encoder. This, however, still resulted in fairly jerky motion at low speeds. Therefore, we implemented `space vector modulation <http://en.wikipedia.org/wiki/Space_vector_modulation>`_, i.e. we feed the motor with actual 3-phase AC current, the phase of which is locked to the motor motion via the encoder. The new controller works fairly well, but still requires some cleanup. It will be documented in detail in a future blog post.
 
-Now that the Acrobot hardware works, it is time to work on the control algorithms. For the demo in the video above, we used a very simple energy-pumping controller, as suggested in a `paper by M. Spong <http://www.clemson.edu/ces/crb/ece496/spring2002/group1a/acrobot_swingup.pdf>`_. The idea is to use a PD controller to control the angle on the active joint, :math:`q_2`, and dynamically set it to
+Now that the Acrobot hardware works, it is time to work on the control algorithms. For the demo in the video above, we used a very simple energy-pumping controller, as suggested in a `paper by M. Spong <http://www.clemson.edu/ces/crb/ece496/spring2002/group1a/acrobot_swingup.pdf>`_. The idea is to use a PD controller to control the angle of the active joint, :math:`q_2`, and dynamically set it to
 
 .. math::
     q_2^{d} = \alpha \arctan(\dot{q}_1)
