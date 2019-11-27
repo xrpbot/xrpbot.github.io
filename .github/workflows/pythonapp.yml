@@ -25,7 +25,7 @@ jobs:
         git clone https://github.com/xrpbot/xrpbot.github.io_nikola_source.git /tmp/repo
         cp -rp output /tmp/repo/docs
         cd /tmp/repo
-        git remote add origin "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/xrpbot/xrpbot.github.io.git"
+        git remote add origin "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/xrpbot/xrpbot.github.io_nikola_source.git"
         git config --global user.email "darthrake@yasit.net"
         git config --global user.name "darthrake"
         touch .nojekyll
