@@ -385,7 +385,7 @@ LICENSE = ""
 # src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
-CONTENT_FOOTER = '<a href="/impressum.html">Impressum/Kontakt - Imprint/Contact</a> - Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}<br><br>'
+CONTENT_FOOTER = '<a href="/impressum.html">Impressum/Kontakt - Imprint/Contact</a> - Contents &copy; 2019         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}<br><br>'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year,
