@@ -85,10 +85,10 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/about.html', 'About'),
+        ('/about/', 'About'),
         ('/blog', 'Blog'),
         ('/wiki/', 'Wiki'),
-        ('/code.html', 'Code'),
+        ('/code/', 'Code'),
     ),
 }
 
