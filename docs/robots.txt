@@ -1,0 +1,4 @@
+Sitemap: http://www.xrpbot.org/sitemapindex.xml
+
+User-Agent: *
+Host: www.xrpbot.org
