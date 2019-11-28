@@ -24,7 +24,8 @@ jobs:
     - name: GitHub Push
       run: |
         git clone https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/xrpbot/xrpbot.org.git /tmp/repo
-        cp -rp output /tmp/repo/docs
+        rm -rf /tmp/repo/docs/
+        cp -rp output/ /tmp/repo/docs/
         cd /tmp/repo
         git config --global user.email "darthrake@yasit.net"
         git config --global user.name "darthrake"
