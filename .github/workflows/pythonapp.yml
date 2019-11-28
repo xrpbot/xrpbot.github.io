@@ -26,7 +26,7 @@ jobs:
         git clone https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/xrpbot/xrpbot.org.git /tmp/repo
         rm -rf /tmp/repo/docs/
         cp -rp output/ /tmp/repo/docs/
-        cd /tmp/repo
+        cd /tmp/repo/docs
         git config --global user.email "darthrake@yasit.net"
         git config --global user.name "darthrake"
         touch .nojekyll
