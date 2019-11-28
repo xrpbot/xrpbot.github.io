@@ -30,7 +30,7 @@ jobs:
         git config --global user.email "darthrake@yasit.net"
         git config --global user.name "darthrake"
         touch .nojekyll
-        echo www.xrpbot.org > CNAME
+        echo xrpbot.org > CNAME
         git add -A
         git commit -m "Deploying website"
         git push origin master
