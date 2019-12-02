@@ -1,6 +1,6 @@
 name: Nikola page builder
 
-on: []
+on: [push]
 
 jobs:
   build:
